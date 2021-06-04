@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
 Blood in the sink, I can barely think
 Spent a rack last night on my fucking drinks
 All I see is money, all I see is red
